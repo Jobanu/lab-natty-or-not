@@ -23,10 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Utilizando Ferramentas de IA para otimizar o tempo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O presente projeto tem como objetivo demonstrar como algumas ferramentas de IA podem facilitar o dia a dia, criação de conteúdo digital
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para este projeto foam utilizadas a seguintes ferramentas:
+Bing Image Creator: https://www.bing.com/images/create?cc=br
+Presentations and Slide Decks with AI | Gamma: https://gamma.app/pt-br
+Chat GPT: https://chatgpt.com/
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
