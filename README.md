@@ -39,14 +39,21 @@ O desenvolvimento da atividade seguiu os seguintes passos:
 
     Hi, please generate a topic structure about the areas and tools that IA can be used, also talk about the necessity of human supervision over        the results of it.
 
-2ª Foi solicitado ao Gamma-app que fizesse uma apresentação com o resultado do 1º passo.
+2ª Foi solicitado ao Gamma-app que fizesse uma apresentação de slides com o resultado do 1º passo. O resultado foi salvo com a extensão .pdf.
 
 Depois como forma de explorar a ferramenta de criação de imagens, Bing Image Creator foi passado o seguinte prompt:
 
     Hi, please create a picture of Spiderman upside down in a raining forest, thunder and lights.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+Abaixo links para a os tópicos gerados pelochat-gpt que serviram de base para a apresentação e imagens geradas por meio da ferramentas de IA:
+
+https://github.com/Jobanu/lab-natty-or-not/blob/main/The-AI-Revolution-Applications-Tools-and-Human-Oversight.pdf
+https://github.com/Jobanu/lab-natty-or-not/blob/main/_0b9e5820-4b4a-4c98-9e3d-dddbabe09f62.jpg
+https://github.com/Jobanu/lab-natty-or-not/blob/main/_1964f1aa-775d-4efa-96fb-c8c70e066de2.jpg
+https://github.com/Jobanu/lab-natty-or-not/blob/main/_7c0b8d90-ecec-41d7-b427-93ce4306fde2.jpg
+https://github.com/Jobanu/lab-natty-or-not/blob/main/_eeb10ed9-d5ef-4bab-a97a-bf26d2c584d7.jpg
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
