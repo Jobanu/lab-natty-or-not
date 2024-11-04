@@ -28,12 +28,22 @@ O presente projeto tem como objetivo demonstrar como algumas ferramentas de IA p
 ## 🤖 Tecnologias Utilizadas
 Para este projeto foam utilizadas a seguintes ferramentas:
 
-Bing Image Creator: https://www.bing.com/images/create?cc=br
-Presentations and Slide Decks with AI | Gamma: https://gamma.app/pt-br
 Chat GPT: https://chatgpt.com/
+Presentations and Slide Decks with AI | Gamma: https://gamma.app/pt-br
+Bing Image Creator: https://www.bing.com/images/create?cc=br
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O desenvolvimento da atividade seguiu os seguintes passos:
+
+1º Foi solicitado ao Chat-gpt que criasse um resumo em tópicos sobre o uso de IA por meio do seguinte prompt:
+
+Hi, please generate a topic structure about the areas and tools that IA can be used, also talk about the necessity of human supervision over the results of it.
+
+2ª Foi solicitado ao Gamma-app que fizesse uma apresentação com o resultado do 1º passo.
+
+Depois como forma de explorar a ferramenta de criação de imagens, Bing Image Creator foi passado o seguinte prompt:
+
+Hi, please create a picture of Spiderman upside down in a raining forest, thunder and lights.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
