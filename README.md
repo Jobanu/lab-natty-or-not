@@ -27,6 +27,7 @@ O presente projeto tem como objetivo demonstrar como algumas ferramentas de IA p
 
 ## 🤖 Tecnologias Utilizadas
 Para este projeto foam utilizadas a seguintes ferramentas:
+
 Bing Image Creator: https://www.bing.com/images/create?cc=br
 Presentations and Slide Decks with AI | Gamma: https://gamma.app/pt-br
 Chat GPT: https://chatgpt.com/
