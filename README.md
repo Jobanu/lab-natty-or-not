@@ -57,5 +57,6 @@ https://github.com/Jobanu/lab-natty-or-not/blob/main/_7c0b8d90-ecec-41d7-b427-93
 https://github.com/Jobanu/lab-natty-or-not/blob/main/_eeb10ed9-d5ef-4bab-a97a-bf26d2c584d7.jpg
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Ao fim dessa atividade percebi que a utilização das ferramentas de IA ajudam a maximizar o uso do tempo, permitindo ao ser humano realizar atividades menos repetitivas, no entanto faz-se necessário analisar com cautela o resultado gerado.
+Sobretudo deve-se analisar o resultado de imagens que podem ser geradas fora da realidade, quer por comando passado sem precisão ou mesmo por falha da IA, assim como os textos que podem vir com viés ou traze informações desatualizadas e equivocadas.
 ```
