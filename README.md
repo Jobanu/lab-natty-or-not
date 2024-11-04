@@ -59,5 +59,5 @@ https://github.com/Jobanu/lab-natty-or-not/blob/main/_eeb10ed9-d5ef-4bab-a97a-bf
 ## 💭 Reflexão (Opcional)
 Ao fim dessa atividade percebi que a utilização das ferramentas de IA ajudam a maximizar o uso do tempo, permitindo ao ser humano realizar atividades menos repetitivas,
 no entanto faz-se necessário analisar com cautela o resultado gerado. Sobretudo deve-se analisar o resultado de imagens que podem ser geradas fora da realidade, quer
-por comando passado sem precisão ou mesmo por falha da IA, assim como os textos que podem vir com viés ou traze informações desatualizadas e equivocadas.
+por comando passado sem precisão ou mesmo por falha da IA, assim como os textos que podem vir com viés ou trazer informações desatualizadas e equivocadas.
 ```
