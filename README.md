@@ -37,13 +37,13 @@ O desenvolvimento da atividade seguiu os seguintes passos:
 
 1º Foi solicitado ao Chat-gpt que criasse um resumo em tópicos sobre o uso de IA por meio do seguinte prompt:
 
-Hi, please generate a topic structure about the areas and tools that IA can be used, also talk about the necessity of human supervision over the results of it.
+    Hi, please generate a topic structure about the areas and tools that IA can be used, also talk about the necessity of human supervision over        the results of it.
 
 2ª Foi solicitado ao Gamma-app que fizesse uma apresentação com o resultado do 1º passo.
 
 Depois como forma de explorar a ferramenta de criação de imagens, Bing Image Creator foi passado o seguinte prompt:
 
-Hi, please create a picture of Spiderman upside down in a raining forest, thunder and lights.
+    Hi, please create a picture of Spiderman upside down in a raining forest, thunder and lights.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
