@@ -51,6 +51,7 @@ Abaixo links para a os tópicos gerados pelochat-gpt que serviram de base para a
 
 ### Exemplos e Insigths
 - [Tópicos-chatgpt](/exemplos/T%C3%B3picos.txt)
+github.com/<organization>/<repository>/blob/<branch_name>/README.md?plain=1
 https://github.com/Jobanu/lab-natty-or-not/blob/main/The-AI-Revolution-Applications-Tools-and-Human-Oversight.pdf
 https://github.com/Jobanu/lab-natty-or-not/blob/main/_0b9e5820-4b4a-4c98-9e3d-dddbabe09f62.jpg
 https://github.com/Jobanu/lab-natty-or-not/blob/main/_1964f1aa-775d-4efa-96fb-c8c70e066de2.jpg
