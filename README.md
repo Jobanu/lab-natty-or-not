@@ -49,9 +49,7 @@ Depois como forma de explorar a ferramenta de criação de imagens, Bing Image C
 
 Abaixo links para a os tópicos gerados pelochat-gpt que serviram de base para a apresentação e imagens geradas por meio da ferramentas de IA:
 
-### Exemplos e Insigths
-- [Tópicos-chatgpt](/exemplos/T%C3%B3picos.txt)
-github.com/<organization>/<repository>/blob/<branch_name>/README.md?plain=1
+
 https://github.com/Jobanu/lab-natty-or-not/blob/main/The-AI-Revolution-Applications-Tools-and-Human-Oversight.pdf
 https://github.com/Jobanu/lab-natty-or-not/blob/main/_0b9e5820-4b4a-4c98-9e3d-dddbabe09f62.jpg
 https://github.com/Jobanu/lab-natty-or-not/blob/main/_1964f1aa-775d-4efa-96fb-c8c70e066de2.jpg
@@ -61,15 +59,3 @@ https://github.com/Jobanu/lab-natty-or-not/blob/main/_eeb10ed9-d5ef-4bab-a97a-bf
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
